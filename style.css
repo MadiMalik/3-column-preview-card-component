@@ -16,6 +16,7 @@
 /* General Styling */
 
 body{
+  background-color: var(--Transparent-white);
     font-family: 'Lexend Deca', sans-serif;
     height: 100vh;
     display: grid;
