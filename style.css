@@ -99,6 +99,7 @@ p{
     background-color: var(--Very-light-gray);
     width: 10rem;
     height: 3.3rem;
+    text-decoration: none;
     border:solid 2px var(--Transparent-white);
     border-radius: 4rem;
     font-size: 1rem;
